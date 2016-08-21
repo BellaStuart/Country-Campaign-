@@ -1,0 +1,62 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px;
+  font-family: sans-serif;    
+}
+
+.jumbotron {
+  background-image:url('https://img0.etsystatic.com/020/0/8203055/il_570xN.478951462_dxh7.jpg');
+  height: 500px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  padding-top: 15px;
+  font-size: 22px;
+  color: #fff;
+  font-family: sans-serif;    
+}
+
+.learn-more {
+  background-color: #f7f7f7;   
+}
+
+.learn-more h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron .container {
+ position:relative;
+ top: 100px;
+}
+
+.why-israel {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}    
+    
+.why-israel h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.why-israel p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}

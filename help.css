@@ -1,0 +1,77 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px;
+  font-family: sans-serif;    
+}
+
+.jumbotron {
+ background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MASADA_SOUND_%26LIGHT_SHOW_twilight_%D7%9E%D7%A6%D7%93%D7%94_%D7%97%D7%99%D7%96%D7%99%D7%95%D7%9F_%D7%90%D7%95%D7%A8_%D7%A7%D7%95%D7%9C%D7%99_(4530206067).jpg/1280px-MASADA_SOUND_%26LIGHT_SHOW_twilight_%D7%9E%D7%A6%D7%93%D7%94_%D7%97%D7%99%D7%96%D7%99%D7%95%D7%9F_%D7%90%D7%95%D7%A8_%D7%A7%D7%95%D7%9C%D7%99_(4530206067).jpg');
+  height: 500px;  
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  padding-top: 15px;
+  font-size: 22px;
+  color: #fff;
+  font-family: sans-serif;    
+}
+
+.learn-more {
+  background-color: #f7f7f7;   
+}
+
+.learn-more h3 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.learn-more p1 {
+    font-size: 20px;
+    color:black;
+}
+
+
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron .container {
+ position:relative;
+ top: 100px;
+}
+
+.why-israel {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}    
+    
+.why-israel h2 {
+    color: #393c3d;
+    font-size: 40px;
+}
+
+.why-israel p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.learn-more h4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.learn-more h5 {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+

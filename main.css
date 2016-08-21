@@ -1,0 +1,77 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px;
+  font-family: sans-serif;    
+}
+
+.jumbotron {
+ background-image:url('https://c2.staticflickr.com/8/7112/7716813568_3f9098e1dc_b.jpg');
+  height: 500px;  
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  padding-top: 15px;
+  font-size: 22px;
+  color: #fff;
+  font-family: sans-serif;    
+}
+
+.learn-more {
+  background-color: #f7f7f7;   
+}
+
+.learn-more h3 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.learn-more p1 {
+    font-size: 20px;
+    color:black;
+}
+
+
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron .container {
+ position:relative;
+ top: 100px;
+}
+
+.why-israel {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}    
+    
+.why-israel h2 {
+    color: #393c3d;
+    font-size: 40px;
+}
+
+.why-israel p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.learn-more h4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.learn-more h5 {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
